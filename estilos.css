@@ -1,0 +1,43 @@
+*{
+padding: 0;
+margin: 0;
+
+
+
+}
+
+h1{
+  padding: 20px;
+  text-align: center;
+  background: black;
+  color: whitesmoke;
+}
+
+.list{
+
+text-align: center;
+padding: 5px;
+
+
+}
+
+
+input{
+width: 80%;
+height: 30px;
+margin:10px;
+color: black;
+background: yellow;
+border: none;
+cursor: pointer;
+font-size: 25px;
+}
+
+#caja{
+background-color: red;
+margin: 2rem;
+padding: 2rem;
+color: white;
+font-size: 40px;
+text-align: center;
+}
